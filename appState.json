@@ -1,0 +1,89 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "f136b33b-31bf-470e-8d1e-6a4f7ef73a1f": {
+        "id": "f136b33b-31bf-470e-8d1e-6a4f7ef73a1f",
+        "parent": null,
+        "name": "function-indunil426.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "function-indunil426.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 12
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "handler": "handler"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "17910419-ac01-41b6-b463-dc5ff5efab2e": {
+        "id": "17910419-ac01-41b6-b463-dc5ff5efab2e",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "400a5f30-7200-4ddb-b5fd-2c1b885e5d73": {
+        "id": "400a5f30-7200-4ddb-b5fd-2c1b885e5d73",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "f136b33b-31bf-470e-8d1e-6a4f7ef73a1f"
+    ],
+    "currentFileId": "f136b33b-31bf-470e-8d1e-6a4f7ef73a1f",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test-function-434withsamename",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1582628729182
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test-function-434withsamename",
+      "url": "https://github.com/Indunil1992/test-function-434withsamename"
+    }
+  }
+}
